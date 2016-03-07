@@ -1,0 +1,23 @@
+{
+  "name": "fis3-parser-underscore",
+  "version": "1.0.0",
+  "description": "基于fis3的underscore模板预编译插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackzhaojun/fis3-parser-underscore.git"
+  },
+  "author": "zhaojunbest@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackzhaojun/fis3-parser-underscore/issues"
+  },
+  "homepage": "https://github.com/jackzhaojun/fis3-parser-underscore",
+  "keywords": ["fis3", "underscore"],
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
